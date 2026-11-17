@@ -1,0 +1,4 @@
+# The optional eqWAlizer bundled with the Windows 2026-10-14 ELP release
+# crashes during startup. ELP's native diagnostics remain enabled.
+[eqwalizer]
+enable_all = false
